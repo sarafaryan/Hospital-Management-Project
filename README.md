@@ -1,0 +1,2 @@
+# Hospital-Management-Project
+A hospital database management system keeps track of all the doctors and patients who are related to the hospital. The dashboard features 3 logins which are the patient, doctor and admin login. The website also enables the patients to book an appointment with the doctor of their choice and allows doctors to prescribe medicines to the patients. For more details refer to the "reports" folder which containes an ER diagram and a relational schema.
